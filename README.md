@@ -21,6 +21,7 @@ Pain au Chocolat	                    650
 Cinnamon Rolls	                      700
 Lemon Blueberry cupcake	              350
 Gourmet Macarons	                    900
+
 How to Run
 Make sure Python 3.x is installed on your system.
 
